@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - jugador
+  - Anchor
+  - tagBoton0
+  - tagBoton1
+  - tagBoton2
+  - tagBoton3
+  - tagBoton4
+  - tagBoton5
+  - tagBoton6
+  - tagBoton7
+  - tagBoton8
+  - tagBoton9
+  - tagBotonOK
+  - tagBotonDel
+  - tagMacBookEnter
+  - tagMacBookTrackPad
+  - tagCubeTest
+  - tagDetectorMetales
+  - tagCross1
+  - tagCross2
+  - tagCrossFinger
+  - tagIndexFinger
+  - CubePlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - manos
+  - botones
+  - teclas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
